@@ -76,7 +76,6 @@ int main() {
         }
     }
     for (int i = 0; i < m; i++) {
-        int size = admits[i].size();
         int isFirst = true;
         for (int appId: admits[i]) {
             if (isFirst) {
