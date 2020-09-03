@@ -20,7 +20,7 @@ int findParent(int root) {
 }
 
 void join(int root1, int root2) {
-    int x, y;;
+    int x, y;
     x = findParent(root1);
     y = findParent(root2);
     if (x != y) {
@@ -46,13 +46,12 @@ int main() {
             if (j == 0) {
                 lastId = id;
             } else {
-                join(id, findParent(lastId));
+                join(id, lastId);
                 lastId = id;
             }
         }
     }
     set<int> trees;
-    int cnt = 0;
     for (int i = 1; i <= maxId; i++) {
         trees.insert(findParent(i));
     }
