@@ -47,7 +47,7 @@ int bfs(int x, int y, int z) {
 				isVisited[newX][newY][newZ] = true;
 			}
 		}
-		
+
 	}
 	return cnt >= threshold ? cnt : 0;
 }

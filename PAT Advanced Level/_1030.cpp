@@ -35,7 +35,6 @@ void print(int vertex) {
 }
 
 int main() {
-
     cin >> n >> m >> s >> d;
     init(n);
     for (int i = 0; i < m; i++) {
