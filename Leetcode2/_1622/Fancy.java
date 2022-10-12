@@ -1,4 +1,4 @@
-package Leetcode2._1622;
+package _1622;
 
 import java.util.*;
 

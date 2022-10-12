@@ -1,4 +1,4 @@
-package Leetcode2._2289;
+package _2289;
 
 import java.util.Deque;
 import java.util.LinkedList;

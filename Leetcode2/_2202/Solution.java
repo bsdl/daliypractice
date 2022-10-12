@@ -1,4 +1,4 @@
-package Leetcode2._2202;
+package _2202;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
