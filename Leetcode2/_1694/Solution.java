@@ -15,7 +15,7 @@ public class Solution {
             return num;
         }
         String lastStr = "";    
-        int last = num.length() / 3;
+        int last = num.length() % 3;
         if (last == 1) {
             lastStr = num.substring(num.length() - 2, num.length());
             num = num.substring(0, num.length() - 2);
@@ -30,11 +30,14 @@ public class Solution {
                 cnt = 0;
             }
         }
-        return builder.toString() + lastStr;
+        if (lastStr.length() > 0) {
+            builder.append("-").append(lastStr);
+        }
+        return builder.toString();
     }
 
     public static void main(String[] args) {
-        String res = Solution.reformatNumber("123 4-567");
+        String res = Solution.reformatNumber("--17-5 229 35-39475 ");
         System.out.println(res);
     }
 }
