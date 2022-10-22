@@ -1,6 +1,5 @@
 package _779;
 
-import javax.swing.SpinnerDateModel;
 
 public class Solution {
     public int kthGrammar(int n, int k) {
