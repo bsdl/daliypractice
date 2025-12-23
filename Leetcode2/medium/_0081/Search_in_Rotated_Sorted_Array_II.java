@@ -1,4 +1,4 @@
-package com.bsdl.medium._0081;
+package medium._0081;
 
 class Search_in_Rotated_Sorted_Array_II {
     public boolean search(int[] nums, int target) {

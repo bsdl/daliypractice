@@ -1,4 +1,4 @@
-package com.bsdl.esay._0581;
+package esay._0581;
 
 class Shortest_Unsorted_Continuous_Subarray {
     public int findUnsortedSubarray(int[] nums) {

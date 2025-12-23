@@ -1,4 +1,4 @@
-package com.bsdl.medium._0200;
+package medium._0200;
 
 
 import java.util.HashSet;

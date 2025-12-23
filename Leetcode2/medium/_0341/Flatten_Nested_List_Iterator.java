@@ -1,4 +1,4 @@
-package com.bsdl.medium._0341;
+package medium._0341;
 
 import javax.swing.*;
 import java.net.Inet4Address;

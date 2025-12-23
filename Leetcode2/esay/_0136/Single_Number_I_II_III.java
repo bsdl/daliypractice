@@ -1,4 +1,4 @@
-package com.bsdl.esay._0136;
+package esay._0136;
 
 
 class Single_Number_I_II_III {

@@ -1,4 +1,4 @@
-package com.bsdl.esay._0836;
+package esay._0836;
 
 public class Solution {
     public boolean isRectangleOverlap(int[] rec1, int[] rec2) {

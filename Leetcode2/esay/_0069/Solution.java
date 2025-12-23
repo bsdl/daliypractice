@@ -1,4 +1,4 @@
-package com.bsdl.esay._0069;
+package esay._0069;
 
 public class Solution {
     public int mySqrt(int x) {

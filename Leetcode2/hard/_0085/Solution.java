@@ -1,4 +1,4 @@
-package com.bsdl.hard._0085;
+package hard._0085;
 
 public class Solution {
     public int maximalRectangle(char[][] matrix) {

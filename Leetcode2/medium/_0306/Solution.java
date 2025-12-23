@@ -1,4 +1,4 @@
-package com.bsdl.medium._0306;
+package medium._0306;
 
 public class Solution {
     long[] sums;

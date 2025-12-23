@@ -1,4 +1,4 @@
-package com.bsdl.medium._0240;
+package medium._0240;
 
 class Search_a_2D_Matrix_II {
     public boolean searchMatrix(int[][] matrix, int target) {

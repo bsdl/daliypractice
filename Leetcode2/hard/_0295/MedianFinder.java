@@ -1,4 +1,4 @@
-package com.bsdl.hard._0295;
+package hard._0295;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

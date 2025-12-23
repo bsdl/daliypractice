@@ -1,4 +1,4 @@
-package com.bsdl.esay._0994;
+package esay._0994;
 
 import java.util.HashMap;
 import java.util.LinkedList;

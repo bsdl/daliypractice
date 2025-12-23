@@ -1,4 +1,4 @@
-package com.bsdl.hard._0045;
+package hard._0045;
 
 public class Solution {
     public int jump(int[] nums) {

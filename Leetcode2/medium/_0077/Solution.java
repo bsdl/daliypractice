@@ -1,4 +1,4 @@
-package com.bsdl.medium._0077;
+package medium._0077;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

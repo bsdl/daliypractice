@@ -1,4 +1,4 @@
-package com.bsdl.esay._0475;
+package esay._0475;
 
 import java.util.Arrays;
 

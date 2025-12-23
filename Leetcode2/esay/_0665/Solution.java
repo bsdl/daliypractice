@@ -1,4 +1,4 @@
-package com.bsdl.esay._0665;
+package esay._0665;
 
 public class Solution {
     public boolean checkPossibility(int[] nums) {

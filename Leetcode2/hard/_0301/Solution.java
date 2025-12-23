@@ -1,4 +1,4 @@
-package com.bsdl.hard._0301;
+package hard._0301;
 
 import java.util.ArrayList;
 import java.util.List;

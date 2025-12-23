@@ -1,4 +1,4 @@
-package com.bsdl.medium._0034;
+package medium._0034;
 
 public class Solution {
     public int[] searchRange(int[] nums, int target) {

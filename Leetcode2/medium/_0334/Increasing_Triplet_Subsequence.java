@@ -1,4 +1,4 @@
-package com.bsdl.medium._0334;
+package medium._0334;
 
 class Increasing_Triplet_Subsequence {
     public boolean increasingTriplet(int[] nums) {

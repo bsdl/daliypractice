@@ -1,4 +1,4 @@
-package com.bsdl.medium._0264;
+package medium._0264;
 
 import java.util.HashSet;
 import java.util.PriorityQueue;

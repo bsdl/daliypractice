@@ -1,4 +1,4 @@
-package com.bsdl.medium._0131;
+package medium._0131;
 
 import java.util.ArrayList;
 import java.util.List;

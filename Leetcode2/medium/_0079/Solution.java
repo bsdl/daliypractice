@@ -1,4 +1,4 @@
-package com.bsdl.medium._0079;
+package medium._0079;
 
 public class Solution {
     public boolean exist(char[][] board, String word) {

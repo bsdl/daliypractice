@@ -1,4 +1,4 @@
-package com.bsdl.medium._0002;
+package medium._0002;
 
 
 public class Solution {

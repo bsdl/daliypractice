@@ -1,4 +1,4 @@
-package com.bsdl.esay._0190;
+package esay._0190;
 
 public class Reverse_Bits {
     // you need treat n as an unsigned value

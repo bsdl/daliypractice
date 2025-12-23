@@ -1,4 +1,4 @@
-package com.bsdl.medium._0006;
+package medium._0006;
 
 class ZigZag_Conversion {
     public String convert(String s, int numRows) {

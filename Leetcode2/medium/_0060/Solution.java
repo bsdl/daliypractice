@@ -1,4 +1,4 @@
-package com.bsdl.medium._0060;
+package medium._0060;
 
 import java.awt.image.AreaAveragingScaleFilter;
 import java.util.ArrayList;

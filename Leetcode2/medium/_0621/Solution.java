@@ -1,4 +1,4 @@
-package com.bsdl.medium._0621;
+package medium._0621;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.bsdl.medium._0216;
+package medium._0216;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.bsdl.esay._0892;
+package esay._0892;
 
 public class Solution {
     public int surfaceArea(int[][] grid) {

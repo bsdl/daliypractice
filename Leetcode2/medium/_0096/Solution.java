@@ -1,4 +1,4 @@
-package com.bsdl.medium._0096;
+package medium._0096;
 
 public class Solution {
     public int numTrees(int n) {

@@ -1,4 +1,4 @@
-package com.bsdl.esay._0205;
+package esay._0205;
 
 import java.util.*;
 

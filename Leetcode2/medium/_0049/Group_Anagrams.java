@@ -1,4 +1,4 @@
-package com.bsdl.medium._0049;
+package medium._0049;
 
 // import java.util.*;
 class Group_Anagrams {

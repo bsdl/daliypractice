@@ -1,4 +1,4 @@
-package com.bsdl.medium._0043;
+package medium._0043;
 
 public class Solution {
     public String multiply(String num1, String num2) {

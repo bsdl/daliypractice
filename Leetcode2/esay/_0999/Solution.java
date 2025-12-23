@@ -1,4 +1,4 @@
-package com.bsdl.esay._0999;
+package esay._0999;
 
 public class Solution {
     public int numRookCaptures(char[][] board) {

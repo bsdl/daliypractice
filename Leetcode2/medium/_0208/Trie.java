@@ -1,4 +1,4 @@
-package com.bsdl.medium._0208;
+package medium._0208;
 
 
 class Trie {

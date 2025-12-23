@@ -1,4 +1,4 @@
-package com.bsdl.hard._0032;
+package hard._0032;
 
 import java.util.Stack;
 

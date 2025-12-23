@@ -1,4 +1,4 @@
-package com.bsdl.hard._0329;
+package hard._0329;
 
 public class Solution {
     static final int[][] moves = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};

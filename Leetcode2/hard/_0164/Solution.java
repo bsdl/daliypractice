@@ -1,4 +1,4 @@
-package com.bsdl.hard._0164;
+package hard._0164;
 
 public class Solution {
     public int maximumGap(int[] nums) {

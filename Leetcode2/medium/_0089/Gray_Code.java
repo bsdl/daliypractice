@@ -1,4 +1,4 @@
-package com.bsdl.medium._0089;
+package medium._0089;
 // class Gary_Code {
 //     public List<Integer> grayCode(int n) {
 //         // List<Integer> res = new LinkedList(){

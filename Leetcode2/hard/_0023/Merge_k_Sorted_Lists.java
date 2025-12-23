@@ -1,4 +1,4 @@
-package com.bsdl.hard._0023;
+package hard._0023;
 
 
 import java.util.Comparator;

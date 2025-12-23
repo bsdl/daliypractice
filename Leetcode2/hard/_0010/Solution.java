@@ -1,4 +1,4 @@
-package com.bsdl.hard._0010;
+package hard._0010;
 
 public class Solution {
 

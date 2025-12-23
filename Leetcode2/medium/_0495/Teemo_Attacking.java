@@ -1,4 +1,4 @@
-package com.bsdl.medium._0495;
+package medium._0495;
 
 class Teemo_Attacking {
     public int findPoisonedDuration(int[] timeSeries, int duration) {

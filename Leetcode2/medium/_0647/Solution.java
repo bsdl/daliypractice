@@ -1,4 +1,4 @@
-package com.bsdl.medium._0647;
+package medium._0647;
 
 public class Solution {
     public int countSubstrings(String s) {

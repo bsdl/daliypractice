@@ -1,4 +1,4 @@
-package com.bsdl.medium._0382;
+package medium._0382;
 
 
 import java.util.Random;

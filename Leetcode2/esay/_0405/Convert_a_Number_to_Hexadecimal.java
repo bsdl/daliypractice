@@ -1,4 +1,4 @@
-package com.bsdl.esay._0405;
+package esay._0405;
 
 
 class SoluConvert_a_Number_to_Hexadecimaltion {

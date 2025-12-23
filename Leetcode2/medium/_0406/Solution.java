@@ -1,4 +1,4 @@
-package com.bsdl.medium._0406;
+package medium._0406;
 
 import java.util.Arrays;
 import java.util.Comparator;

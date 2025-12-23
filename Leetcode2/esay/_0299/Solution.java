@@ -1,4 +1,4 @@
-package com.bsdl.esay._0299;
+package esay._0299;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package com.bsdl.medium._0138;
+package medium._0138;
 
 import java.util.HashMap;
 import java.util.Map;

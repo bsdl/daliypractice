@@ -1,4 +1,4 @@
-package com.bsdl.medium._0209;
+package medium._0209;
 
 class Minimum_Size_Subarray_Sum {
     // public int minSubArrayLen(int s, int[] nums) {

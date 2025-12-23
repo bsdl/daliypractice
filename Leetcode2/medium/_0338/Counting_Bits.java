@@ -1,4 +1,4 @@
-package com.bsdl.medium._0338;
+package medium._0338;
 
 class Counting_Bits {
     public int[] countBits(int num) {

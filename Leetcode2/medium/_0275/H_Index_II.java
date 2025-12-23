@@ -1,4 +1,4 @@
-package com.bsdl.medium._0275;
+package medium._0275;
 
 class H_Index_II {
     public int hIndex(int[] citations) {

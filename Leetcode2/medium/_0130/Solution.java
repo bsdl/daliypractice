@@ -1,4 +1,4 @@
-package com.bsdl.medium._0130;
+package medium._0130;
 
 public class Solution {
     public void solve(char[][] board) {

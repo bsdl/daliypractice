@@ -1,4 +1,4 @@
-package com.bsdl.medium._0378;
+package medium._0378;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

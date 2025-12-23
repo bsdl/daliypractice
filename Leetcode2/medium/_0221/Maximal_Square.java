@@ -1,4 +1,4 @@
-package com.bsdl.medium._0221;
+package medium._0221;
 
 class Maximal_Square {
     public int maximalSquare(char[][] matrix) {

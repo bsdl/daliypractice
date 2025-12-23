@@ -1,4 +1,4 @@
-package com.bsdl.medium._0207;
+package medium._0207;
 
 public class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {

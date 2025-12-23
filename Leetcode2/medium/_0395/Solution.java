@@ -1,4 +1,4 @@
-package com.bsdl.medium._0395;
+package medium._0395;
 
 import java.util.ArrayList;
 import java.util.HashMap;

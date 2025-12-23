@@ -1,4 +1,4 @@
-package com.bsdl.hard._0030;
+package hard._0030;
 
 import java.util.ArrayList;
 import java.util.HashMap;

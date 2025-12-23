@@ -1,4 +1,4 @@
-package com.bsdl.medium._0210;
+package medium._0210;
 
 import java.util.Stack;
 

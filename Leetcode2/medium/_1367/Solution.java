@@ -1,4 +1,4 @@
-package com.bsdl.medium._1367;
+package medium._1367;
 
 
 class ListNode {

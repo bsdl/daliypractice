@@ -1,4 +1,4 @@
-package com.bsdl.medium._0151;
+package medium._0151;
 
 class Reverse_Words_in_a_String {
     public String reverseWords(String s) {

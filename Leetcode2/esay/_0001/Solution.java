@@ -1,4 +1,4 @@
-package com.bsdl.esay._0001;
+package esay._0001;
 
 import java.util.HashMap;
 import java.util.Map;

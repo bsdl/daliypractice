@@ -1,4 +1,4 @@
-package com.bsdl.medium._0220;
+package medium._0220;
 
 import java.util.Set;
 import java.util.TreeSet;

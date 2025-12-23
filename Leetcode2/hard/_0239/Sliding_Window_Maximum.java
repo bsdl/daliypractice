@@ -1,4 +1,4 @@
-package com.bsdl.hard._0239;
+package hard._0239;
 
 
 import java.util.*;

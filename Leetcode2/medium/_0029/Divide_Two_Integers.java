@@ -1,4 +1,4 @@
-package com.bsdl.medium._0029;
+package medium._0029;
 
 class Divide_Two_Integers {
     // public int divide(int dividend, int divisor) {

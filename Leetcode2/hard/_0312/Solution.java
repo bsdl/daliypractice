@@ -1,4 +1,4 @@
-package com.bsdl.hard._0312;
+package hard._0312;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

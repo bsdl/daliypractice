@@ -1,4 +1,4 @@
-package com.bsdl.esay._0387;
+package esay._0387;
 
 class First_Unique_Character_in_a_String {
     public int firstUniqChar(String s) {

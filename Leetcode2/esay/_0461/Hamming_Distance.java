@@ -1,4 +1,4 @@
-package com.bsdl.esay._0461;
+package esay._0461;
 
 class Hamming_Distance {
     public int hammingDistance(int x, int y) {

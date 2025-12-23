@@ -1,4 +1,4 @@
-package com.bsdl.medium._0105;
+package medium._0105;
 
 /**
  * Definition for a binary tree node.

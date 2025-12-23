@@ -1,6 +1,6 @@
-package com.bsdl.medium._0017;
+package medium._0017;
 
-import com.bsdl.medium._0229.Solution;
+import medium._0229.Solution;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.bsdl.esay._0572;
+package esay._0572;
 
 
 public class Solution {

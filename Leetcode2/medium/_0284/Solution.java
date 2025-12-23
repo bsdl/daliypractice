@@ -1,4 +1,4 @@
-package com.bsdl.medium._0284;
+package medium._0284;
 
 // Java Iterator interface reference:
 // https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html

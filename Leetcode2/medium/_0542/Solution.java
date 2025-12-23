@@ -1,4 +1,4 @@
-package com.bsdl.medium._0542;
+package medium._0542;
 
 public class Solution {
     public int[][] updateMatrix(int[][] matrix) {

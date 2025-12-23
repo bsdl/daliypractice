@@ -1,8 +1,7 @@
-package com.bsdl.esay._0119;
+package esay._0119;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 public class Solution {
     public List<Integer> getRow(int rowIndex) {

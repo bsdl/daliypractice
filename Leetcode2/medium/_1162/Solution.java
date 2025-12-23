@@ -1,4 +1,4 @@
-package com.bsdl.medium._1162;
+package medium._1162;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package com.bsdl.hard._0044;
+package hard._0044;
 
 public class Solution {
     public boolean isMatch(String s, String p) {

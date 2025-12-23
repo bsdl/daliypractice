@@ -1,4 +1,4 @@
-package com.bsdl.medium._0134;
+package medium._0134;
 
 public class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {

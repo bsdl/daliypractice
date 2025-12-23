@@ -1,4 +1,4 @@
-package com.bsdl.hard._0862;
+package hard._0862;
 
 import java.util.Deque;
 import java.util.LinkedList;

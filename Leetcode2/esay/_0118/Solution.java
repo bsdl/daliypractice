@@ -1,4 +1,4 @@
-package com.bsdl.esay._0118;
+package esay._0118;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.bsdl.medium._1248;
+package medium._1248;
 
 public class Solution {
     public int numberOfSubarrays(int[] nums, int k) {

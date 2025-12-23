@@ -1,4 +1,4 @@
-package com.bsdl.esay._0035;
+package esay._0035;
 
 class Search_Insert_Position {
     public int searchInsert(int[] nums, int target) {

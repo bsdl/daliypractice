@@ -1,4 +1,4 @@
-package com.bsdl.esay._0110;
+package esay._0110;
 
 /**
  * Definition for a binary tree node.

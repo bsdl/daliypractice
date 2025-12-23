@@ -1,4 +1,4 @@
-package com.bsdl.esay._0107;
+package esay._0107;
 
 import java.util.LinkedList;
 import java.util.List;

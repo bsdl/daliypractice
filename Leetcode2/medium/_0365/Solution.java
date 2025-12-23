@@ -1,4 +1,4 @@
-package com.bsdl.medium._0365;
+package medium._0365;
 
 import java.lang.reflect.Array;
 import java.util.*;

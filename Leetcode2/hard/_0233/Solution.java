@@ -1,4 +1,4 @@
-package com.bsdl.hard._0233;
+package hard._0233;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package com.bsdl.medium._0322;
+package medium._0322;
 
 class Coin_Change {
     public int coinChange(int[] coins, int amount) {

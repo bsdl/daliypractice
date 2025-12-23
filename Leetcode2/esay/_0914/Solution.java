@@ -1,4 +1,4 @@
-package com.bsdl.esay._0914;
+package esay._0914;
 
 public class Solution {
     public boolean hasGroupsSizeX(int[] deck) {

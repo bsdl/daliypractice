@@ -1,4 +1,4 @@
-package com.bsdl.esay._0038;
+package esay._0038;
 
 class Count_and_Say {
     public String countAndSay(int n) {

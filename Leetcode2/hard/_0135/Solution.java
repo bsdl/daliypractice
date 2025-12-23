@@ -1,4 +1,4 @@
-package com.bsdl.hard._0135;
+package hard._0135;
 
 import javax.swing.plaf.SliderUI;
 import java.util.Arrays;

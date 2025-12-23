@@ -1,4 +1,4 @@
-package com.bsdl.medium._0457;
+package medium._0457;
 
 class Circular_Array_Loop {
     public boolean circularArrayLoop(int[] nums) {

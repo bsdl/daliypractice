@@ -1,4 +1,4 @@
-package com.bsdl.medium._0036;
+package medium._0036;
 
 class Valid_Sudoku {
     public boolean isValidSudoku(char[][] board) {

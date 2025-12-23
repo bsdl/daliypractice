@@ -1,4 +1,4 @@
-package com.bsdl.medium._0820;
+package medium._0820;
 
 import java.util.Arrays;
 
